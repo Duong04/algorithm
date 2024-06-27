@@ -36,6 +36,7 @@ Explanation: L = 50, V= 5, III = 3.
 
 Giải: bài này mình nghĩ ra được 2 cách giải nhưng về tối ưu và dễ hiểu hơn thì mình thấy c1 sẽ ok hơn cách 2 ^_^
 - Trick: C1 mình có thể giải thêm 1 kiểu nữa là lặp từ phải sang trái và so sánh với giá trị prev (Chỉ cần làm điều ngược lại với C1 thì ta có thêm 1 cách giải nữa 👀) ^_^
+
 C1:
 - Tạo ra 1 mảng có tên là Roman sẽ có các key là roman với value tương tự
 - Tạo 2 biến $total và $length (Biến này đếm độ dài chuỗi)
