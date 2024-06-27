@@ -10,6 +10,7 @@ Output: true
 
 Explanation: 121 reads as 121 from left to right and from right to left.\
 // ----------------------------------------------------------------
+
 Giải:
 - chuyển đổi x thành 1 string
 - Tạo 2 biến $left và $right, với $left có value = 0  và $right = độ dài của $str - 1
